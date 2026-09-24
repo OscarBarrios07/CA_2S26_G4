@@ -22,17 +22,17 @@ Dado a que es un tema general y no tan complejo de explicar, fue seleccionado co
 6. Qué hacer si algo sale mal + cierre
 
 ## Cronograma de duración de la capacitacion
-
-|     Subtema                             |   Duración  |
-|-----------------                        |-------------|    
-|Introducción:¿Qué es la identidad digital?|10 min      |
-|Contraseña y accesos seguros             | 10 min      |
-|Privacidad en redes sociales             | 10 min      |
-|Pishing y estafas en linea               | 10 min      |
-|Ciberacoso y contacto con desconocidos   | 10 min      |
-|Que hacer si algo sale mal + cierre      | 10 min      |
-|Kahoot                                   | 10 min       |
- 
+| Bloque / Ficha | Tiempo Estimado | Sección de la Capacitación | Contenido / Actividad Principal | Responsable(s) |
+| :---: | :---: | :--- | :--- | :--- |
+| **01** | 00:00 - 05:00 | **Introducción** | Bienvenida, presentación del equipo, objetivos de aprendizaje y **Dinámica Rompehielos** inicial. | Oscar |
+| **02** | 05:00 - 15:00 | **Desarrollo - Subtema 1** | Identidad digital, concepto de huella digital y ejercicio visual de búsqueda en vivo. | Oscar |
+| **03** | 15:00 - 25:00 | **Desarrollo - Subtema 2** | Contraseñas seguras vs. débiles, análisis de combinaciones y explicación del 2FA. | Francisco |
+| **04** | 25:00 - 35:00 | **Desarrollo - Subtema 3** | Privacidad en redes sociales, perfiles públicos/privados y análisis de foto con datos ocultos. | Iván |
+| **05** | 35:00 - 45:00 | **Desarrollo - Subtema 4** | Phishing, análisis de señales de alerta (urgencia, premios falsos) y caso práctico en pantalla. | Javier |
+| **06** | 45:00 - 55:00 | **Desarrollo - Subtema 5** | Ciberacoso, protocolo de guardado de evidencia, denuncias y banderas rojas con desconocidos. | Isa |
+| **07** | 55:00 - 65:00 | **Desarrollo - Subtema 6** | Redes de apoyo, qué hacer si algo sale mal y síntesis de recomendaciones clave. | Luis |
+| **08** | 65:00 - 70:00 | **Participación y Validación** | **Actividad Interactiva de Aprendizaje:** Cuestionario interactivo (Kahoot) sobre los 6 subtemas. | Todo el equipo |
+| **09** | 70:00 - 71:00 | **Cierre y Resumen** | Resumen final, espacio para preguntas del público, dinámica grupal de cierre y agradecimientos. | Equipo |
 ## Perfil de la audiencia:
 Al ser un tema general, pero tratandose de concientización se elegio a un publicó de grado de diversificado de una institución escolar. Esto ya que en este rango de edad, ciertos temas de los que se exponen pueden ser de una mejor compresión por parte de ellos. Además al tratarse de ciberseguridad escolar, era importante que el público al que se dirigia la exposición fuera en un contexto academico. 
 
