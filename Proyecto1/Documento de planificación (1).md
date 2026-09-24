@@ -34,7 +34,8 @@ Dado a que es un tema general y no tan complejo de explicar, fue seleccionado co
 | **08** | 65:00 - 70:00 | **Participación y Validación** | **Actividad Interactiva de Aprendizaje:** Cuestionario interactivo (Kahoot) sobre los 6 subtemas. | Todo el equipo |
 | **09** | 70:00 - 71:00 | **Cierre y Resumen** | Resumen final, espacio para preguntas del público, dinámica grupal de cierre y agradecimientos. | Equipo |
 ## Perfil de la audiencia:
-Al ser un tema general, pero tratandose de concientización se elegio a un publicó de grado de diversificado de una institución escolar. Esto ya que en este rango de edad, ciertos temas de los que se exponen pueden ser de una mejor compresión por parte de ellos. Además al tratarse de ciberseguridad escolar, era importante que el público al que se dirigia la exposición fuera en un contexto academico. 
+Al ser un tema general, pero tratándose de concientización se elegio a un publicó de grado de diversificado específicamente en 4to perito de una institución escolar. Esto ya que en este rango de edad entre (15/17 años), ciertos temas de los que se exponen pueden ser de una mejor compresión por parte de ellos. Además al tratarse de ciberseguridad escolar, era importante que el público al que se dirigía la exposición fuera en un contexto académico. 
+
 
 ## Material utilizado:
 
