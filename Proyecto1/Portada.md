@@ -1,0 +1,53 @@
+---
+title: Portada
+
+---
+
+**Universidad**: Universidad de San Carlos de Guatemala  
+**Facultad:** Facultad de Ingeniería  
+**Curso:** Laboratorio Comunicación Asertiva "B"  
+**Catedrático:** Cesar Augusto Fernández Cáceres  
+**Auxiliar:** Carlos Fernando Enrique López García  
+
+<br/>
+<br/>
+
+<center>
+
+![Logo USAC][logo-usac]
+
+<br/>
+<br/>
+
+---
+
+# **Comunicación Asertiva para la Transferencia de Conocimiento Técnico**
+> ### *Proyecto No. 1*
+
+---
+
+<br/>
+<br/>
+
+### **Integrantes:**
+
+| Nombre Completo | No. Carnet |
+| :---: | :---: |
+| Francisco Javier Barillas Velasquez | 202503404 |
+| Javier Andre Gonzalez Barrera | 202501427 |
+| Luis Fernando Alvarado Ramirez | 202502176 |
+| Oscar José Barrios Cotom | 202500043 |
+| Isabella Solórzano Quintana | 202505466 |
+| Jeshua Iván López Rodríguez | 202502157 |
+
+<br/>
+<br/>
+
+*Guatemala, 23 de septiembre de 2026*
+
+</center>
+
+[logo-usac]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Usac_logo.png/250px-Usac_logo.png
+---
+    
+
