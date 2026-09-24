@@ -36,6 +36,7 @@ Dado a que es un tema general y no tan complejo de explicar, fue seleccionado co
 ## Perfil de la audiencia:
 Al ser un tema general, pero tratándose de concientización se elegio a un publicó de grado de diversificado específicamente en 4to perito de una institución escolar. Esto ya que en este rango de edad entre (15/17 años), ciertos temas de los que se exponen pueden ser de una mejor compresión por parte de ellos. Además al tratarse de ciberseguridad escolar, era importante que el público al que se dirigía la exposición fuera en un contexto académico. 
 
+Para adaptar este mensaje a jóvenes de diversificado, se busca un equilibrio entre la claridad y la cercanía, evitando tecnicismos complejos o un tono demasiado rígido. La idea es conectar con su realidad cotidiana como el uso de redes sociales y situaciones comunes en internet mediante ejemplos prácticos y sin caer en alarmismo, ofreciéndoles herramientas sencillas, directas y fáciles de aplicar para proteger su información personal. Además aplicando técnicas de buena comunicación como vista en general al publico, espalda recta, mirada al frente, utilizar un tono de voz adecuado, y el uso adecuado del material audiovisual presentado.
 
 ## Material utilizado:
 
