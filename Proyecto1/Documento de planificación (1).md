@@ -38,16 +38,14 @@ Al ser un tema general, pero tratandose de concientización se elegio a un publi
 
 ## Material utilizado:
 
-![1](https://hackmd.io/_uploads/HkL1U4M9fe.png)
 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/300f0ba4-535d-4be5-ab11-bdc5423afea1" />
 
-![2](https://hackmd.io/_uploads/ByPmI4f9fe.png)
-![3](https://hackmd.io/_uploads/rJZVL4McGx.png)
-![4](https://hackmd.io/_uploads/HkvjIEM9zx.jpg)
-
-
-![5](https://hackmd.io/_uploads/SJcB8NGcMe.png)
-![6](https://hackmd.io/_uploads/SJsHLEz9Ge.png)
-![7](https://hackmd.io/_uploads/rksS84Mczx.png)
-![8](https://hackmd.io/_uploads/BJiBUVzqzl.png)
-![9](https://hackmd.io/_uploads/SJsHLVG5fg.png)
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/035b59b6-3afd-4b88-90d2-405021ef6173" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/cb4815d8-220e-4937-a890-88389c9902df" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/34ab7e95-3e53-4454-8f7c-404a4470b668" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/056c7150-e8f2-4dc5-a718-63d0a55d30d6" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/d1f206eb-f71c-465e-9b79-601c2e2daf48" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/e1742c0f-34d9-4d61-94d6-91d647544856" />
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/fc05146d-4142-45d0-9b42-1bb5ed150ecd" />
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/f0a619ef-3c5b-4076-a5c4-9957a8259a9f" />
